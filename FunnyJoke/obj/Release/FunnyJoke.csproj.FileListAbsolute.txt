@@ -1,0 +1,8 @@
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\bin\Release\FunnyJoke.exe.config
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\bin\Release\FunnyJoke.exe
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\bin\Release\FunnyJoke.pdb
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\obj\Release\FunnyJoke.Form1.resources
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\obj\Release\FunnyJoke.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\obj\Release\FunnyJoke.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\obj\Release\FunnyJoke.exe
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\obj\Release\FunnyJoke.pdb

@@ -1,0 +1,19 @@
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\bin\Debug\FunnyJoke.exe.config
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.Form1.resources
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\bin\Debug\FunnyJoke.exe
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\bin\Debug\FunnyJoke.pdb
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.exe
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.pdb
+D:\Code\Master.1sem\ControlPC\FunnyJoke\FunnyJoke\bin\Debug\FunnyJoke.exe.config
+D:\Code\Master.1sem\ControlPC\FunnyJoke\FunnyJoke\bin\Debug\FunnyJoke.exe
+D:\Code\Master.1sem\ControlPC\FunnyJoke\FunnyJoke\bin\Debug\FunnyJoke.pdb
+D:\Code\Master.1sem\ControlPC\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.csprojResolveAssemblyReference.cache
+D:\Code\Master.1sem\ControlPC\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.Form1.resources
+D:\Code\Master.1sem\ControlPC\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.Properties.Resources.resources
+D:\Code\Master.1sem\ControlPC\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.csproj.GenerateResource.Cache
+D:\Code\Master.1sem\ControlPC\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.csproj.CoreCompileInputs.cache
+D:\Code\Master.1sem\ControlPC\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.exe
+D:\Code\Master.1sem\ControlPC\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.pdb
